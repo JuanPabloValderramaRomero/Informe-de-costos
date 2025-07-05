@@ -1,2 +1,2 @@
-# Informe-de-costos
+# Informe
 Diagrama de proveedores 
